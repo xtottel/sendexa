@@ -16,7 +16,7 @@ import {
   MessageSquareText,
 } from "lucide-react";
 
-import { motion } from "framer-motion";
+import { motion, easeOut, backOut } from "framer-motion";
 import { useRef } from "react";
 import "swiper/css";
 import "swiper/css/navigation";
@@ -130,7 +130,7 @@ const HeroSlider = () => {
       opacity: 1,
       transition: {
         duration: 0.6,
-        ease: "easeOut",
+        ease: easeOut,
       },
     },
   };
@@ -142,7 +142,7 @@ const HeroSlider = () => {
       opacity: 1,
       transition: {
         duration: 0.5,
-        ease: "backOut",
+        ease: backOut,
       },
     },
   };

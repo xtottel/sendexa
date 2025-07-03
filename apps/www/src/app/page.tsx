@@ -2,7 +2,7 @@
 
 import { Metadata } from "next";
 //import Homepage from "@/components/home/Homepage";
-import HomePage from "@/components/core/HomePage";
+import HomePage from "@/components/home/HomePage";
 
 
 export const metadata: Metadata = {
