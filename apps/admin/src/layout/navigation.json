@@ -1,0 +1,86 @@
+{
+  "navItems": [
+    {
+      "icon": "Home",
+      "name": "Dashboard",
+      "path": "/"
+    },
+        {
+      "icon": "ChartBar",
+      "name": "Analytics",
+      "subItems": [
+        { "name": "SMS Stats", "path": "/analytics/sms" },
+        { "name": "OTP Stats", "path": "/analytics/otp" },
+        { "name": "Email Stats", "path": "/analytics/email" },
+        { "name": "Platform Usage", "path": "/analytics/usage" }
+      ]
+    },
+    {
+      "icon": "Users2",
+      "name": "Users",
+      "subItems": [
+        { "name": "All Users", "path": "/users" },
+        { "name": "Activity Logs", "path": "/users/logs" },
+        { "name": "Blocked Accounts", "path": "/users/blocked" }
+      ]
+    },
+    {
+      "icon": "MessageCircle",
+      "name": "SMS Management",
+      "subItems": [
+        { "name": "All SMS Logs", "path": "/sms/logs" },
+        { "name": "Pending SMS", "path": "/sms/pending" },
+        { "name": "Sender ID Requests", "path": "/sms/sender-ids" },
+        { "name": "Templates", "path": "/sms/templates" }
+      ]
+    },
+    {
+      "icon": "LockKeyhole",
+      "name": "OTP Management",
+      "subItems": [
+        { "name": "All OTP Logs", "path": "/otp/logs" },
+        { "name": "Failed Verifications", "path": "/otp/failed" },
+        { "name": "OTP Settings", "path": "/otp/settings" }
+      ]
+    },
+    {
+      "icon": "MailIcon",
+      "name": "Email Management",
+      "subItems": [
+        { "name": "All Campaigns", "path": "/email/campaigns" },
+        { "name": "Audience Segments", "path": "/email/audiences" },
+        { "name": "Broadcast Logs", "path": "/email/logs" },
+        { "name": "Domain Settings", "path": "/email/domains" }
+      ]
+    },
+    {
+      "icon": "Wallet",
+      "name": "Billing & Recharge",
+      "subItems": [
+        { "name": "All Transactions", "path": "/billing/transactions" },
+        { "name": "Top-ups", "path": "/billing/topups" },
+        { "name": "Manual Credit Adjustments", "path": "/billing/credits" }
+      ]
+    }
+  ],
+  "othersItems": [
+    {
+      "icon": "User",
+      "name": "My Profile",
+      "path": "/account/profile"
+    },
+    {
+      "icon": "ShieldUser",
+      "name": "Access Control",
+      "subItems": [
+        { "name": "Admin Users", "path": "/access/admins" },
+        { "name": "Roles & Permissions", "path": "/access/roles" }
+      ]
+    },
+    {
+      "icon": "FileText",
+      "name": "Audit Logs",
+      "path": "/logs"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "navItems": [
+    {
+      "icon": "GridIcon",
+      "name": "Dashboard",
+      "path": "/"
+    },
+    {
+      "icon": "PieChart",
+      "name": "Analytics",
+      "subItems": [
+        { "name": "SMS Analytics", "path": "/analytics/sms" },
+        { "name": "OTP Analytics", "path": "/analytics/otp" },
+        { "name": "Email Analytics", "path": "/analytics/email" }
+      ]
+    },
+    {
+      "icon": "MessageCircle",
+      "name": "SMS",
+      "subItems": [
+        { "name": "Send SMS", "path": "/sms/send" },
+        { "name": "Sender IDs", "path": "/sms/sender-ids", "badge": "new" },
+        { "name": "Contacts", "path": "/sms/contacts" },
+        { "name": "Templates", "path": "/sms/templates", "badge": "new" }
+      ]
+    },
+    {
+      "icon": "LockKeyhole",
+      "name": "OTP",
+      "subItems": [
+        { "name": "Overview", "path": "/otp/overview" },
+        { "name": "Channels", "path": "/otp/channels", "badge": "beta" }
+      ]
+    },
+    {
+      "icon": "MailIcon",
+      "name": "Email",
+      "subItems": [
+        { "name": "Broadcasts", "path": "/email/broadcasts" },
+        { "name": "Audiences", "path": "/email/audiences" },
+        { "name": "Metrics", "path": "/email/metrics" },
+        { "name": "Domains", "path": "/email/domains" },
+        { "name": "Settings", "path": "/email/settings" }
+      ]
+    },
+    {
+      "icon": "CreditCard",
+      "name": "Billing",
+      "subItems": [
+        { "name": "Usage & Charges", "path": "/billing/usage" },
+        { "name": "Top Up Balance", "path": "/billing/top-up" },
+        { "name": "Payment Methods", "path": "/billing/payment-methods" },
+        { "name": "Invoices", "path": "/billing/invoices" }
+      ]
+    }
+  ],
+  "othersItems": [
+    {
+      "icon": "User",
+      "name": "Profile",
+      "path": "/account/profile"
+    },
+    {
+      "icon": "KeyRound",
+      "name": "API & Developer",
+      "subItems": [
+        { "name": "API Keys", "path": "/account/api/keys" },
+        { "name": "API Logs", "path": "/account/api/logs", "badge": "soon" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "slug": "sendexa-birthday-story",
+    "title": "From Being Doubted to Building Sendexa: My Story So Far",
+    "date": "June 28, 2025",
+    "category": "Founder Journey",
+    "readTime": "9 min read",
+    "image": "/blog/founder-journey.jpg",
+    "excerpt": "On my 21st birthday, I reflect on the struggles, betrayals, and sleepless nights that shaped me — and how I turned pain into purpose by building Sendexa.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Turning 21 isn't just a milestone—it's a moment of reflection. As I celebrate this birthday, I look back on a journey filled with rejection, betrayal, and isolation—but also one driven by purpose, vision, and resilience."
+      },
+      {
+        "type": "paragraph",
+        "text": "When I started building Xtocast, I had no money, no support, and no connections. I got scammed. I lost money. People laughed. Even some of the closest people I trusted gave up on me. But I never stopped believing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa was born out of those painful lessons. It wasn’t just a startup—it was my redemption. Every sleepless night, every failed launch, every cold email and ignored DM built the foundation for what Sendexa is becoming today."
+      },
+      {
+        "type": "heading",
+        "text": "Building From the Volta Region"
+      },
+      {
+        "type": "paragraph",
+        "text": "I didn’t come from Accra, Silicon Valley, or Nairobi. I came from a town in the Volta Region, with just a laptop and a vision to create Ghana’s leading communication and API platform. People said I was dreaming too big. Some still do."
+      },
+      {
+        "type": "paragraph",
+        "text": "But today, Sendexa is not just a dream. We've built robust SMS and OTP systems, launched beautiful dashboards, and are finalizing powerful APIs. We are pushing boundaries from a region most overlook—and we’re not done."
+      },
+      {
+        "type": "quote",
+        "text": "They doubted the boy. They’ll respect the man. This is just the beginning.",
+        "author": "Collins Joe"
+      },
+      {
+        "type": "heading",
+        "text": "The Road Ahead"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa will focus solely on communications—SMS, OTP, voice, and email. Xtopay will lead the payments front. And beyond that, I’ll continue building Boame, Zendu, and Xtottel to complete the Volta tech empire I envision—Code Volta."
+      },
+      {
+        "type": "paragraph",
+        "text": "To those who believed, thank you. To those who doubted, thank you even more. You're part of this story."
+      }
+    ],
+    "author": {
+      "name": "Collins Joe",
+      "role": "Founder & CEO of Sendexa",
+      "image": "/images/Profile.jpg"
+    },
+    "relatedPosts": [2, 3]
+  },
+ {
+  "id": 2,
+  "slug": "best-sms-api-ghana-comparison-sendexa-vs-hubtel-arkesel",
+  "title": "Best SMS API in Ghana? Sendexa vs Hubtel vs Arkesel – Full 2025 Comparison",
+  "date": "July 5, 2025",
+  "category": "Product",
+  "readTime": "7 min read",
+  "image": "/blog/sms-api-comparison.jpg",
+  "excerpt": "Looking for the most reliable SMS API in Ghana? In this 2025 benchmark, we compare Sendexa to Hubtel and Arkesel across delivery speed, uptime, support, and pricing. See why Sendexa is trusted by Africa’s fastest-growing startups.",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Choosing the right SMS gateway in Ghana or across Africa can make or break your communication strategy. In this post, we compare three major players — Sendexa, Hubtel, and Arkesel — in terms of reliability, latency, pricing, and developer experience."
+    },
+    {
+      "type": "heading",
+      "text": "Why This Matters in 2025"
+    },
+    {
+      "type": "paragraph",
+      "text": "African businesses depend on fast and dependable SMS delivery for OTPs, alerts, and customer communication. Delays or message failures can result in lost users or missed revenue. That’s why we put Sendexa to the test — alongside local competitors — using real message delivery benchmarks."
+    },
+    {
+      "type": "heading",
+      "text": "Speed Test Results: Local Infrastructure Wins"
+    },
+    {
+      "type": "paragraph",
+      "text": "We conducted a 30-day test sending 10,000 messages each through Sendexa, Hubtel, and Arkesel. The results were clear:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Provider", "Average Delivery Time", "Success Rate"],
+        ["Sendexa", "200-400ms", "99.97%"],
+        ["Hubtel", "500-700ms", "99.85%"],
+        ["Arkesel", "600-800ms", "99.80%"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sendexa consistently outperformed both competitors in speed and reliability."
+    },
+    {
+      "type": "heading",
+      "text": "Latency: Why Local Matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sendexa is directly integrated with telecom providers like MTN, AirtelTigo, and Telecel. Unlike Twilio, which routes traffic internationally, Sendexa’s localized routes cut latency dramatically."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Sendexa: 200-400ms average delivery time in Ghana",
+        "Hubtel: 500-700ms under typical load",
+        "Twilio: 800-1200ms (due to international routing)",
+        "Zero 'grey routing' thanks to dedicated SMPP connections"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Uptime & Reliability"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a 30-day test, Sendexa maintained 99.97% uptime, beating industry averages. Our architecture is built for high throughput, redundancy, and real-time failover in key African regions."
+    },
+    {
+      "type": "heading",
+      "text": "Transparent Pricing Compared"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most SMS providers in Ghana charge setup fees or enforce minimum monthly commitments. Sendexa offers flexible pay-as-you-go pricing with no hidden fees:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        ["Provider", "Price/SMS (GHS)", "Minimum Spend"],
+        ["Sendexa", "0.028", "None"],
+        ["Hubtel", "0.033", "None"],
+        ["Arkesel", "0.031", "GHS 20"]
+       
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Built for African Developers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sendexa offers localized documentation, sandbox environments, and SDKs in JavaScript, Python, PHP, and more. Whether you're integrating OTPs for a fintech or bulk alerts for a school, our APIs are designed to scale fast."
+    },
+    {
+      "type": "heading",
+      "text": "Conclusion: The Best SMS API for Ghana & Beyond"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you're a startup or an enterprise, Sendexa is the best SMS API platform built for African scale. With unmatched delivery speeds, clear pricing, and real local support, more businesses are making the switch every month."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to upgrade your messaging infrastructure?",
+      "button": {
+        "text": "Start Sending with Sendexa",
+        "url": "/signup"
+      }
+    }
+  ],
+  "author": {
+    "name": "Sendexa Engineering Team",
+    "role": "CTO, Sendexa",
+    "image": "/images/engineering-team.jpg"
+  },
+  "relatedPosts": [1, 3]
+}
+,
+  {
+    "id": 3,
+    "slug": "code-volta-tech-empire",
+    "title": "Why I’m Building Sendexa and Xtopay in the Volta Region (Not Accra)",
+    "date": "July 12, 2025",
+    "category": "Founder Journey",
+    "readTime": "6 min read",
+    "image": "/blog/volta-tech-hub.jpg",
+    "excerpt": "Silicon Valley has Y Combinator. Kenya has Silicon Savannah. Now, Volta is rising with Sendexa, Xtopay, and Code Volta—my blueprint for decentralized tech growth.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Accra dominates Ghana’s tech scene, but talent and opportunity exist nationwide. Sendexa’s HQ in Volta symbolizes a shift:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Lower operational costs = competitive pricing for clients",
+          "Untapped talent from local universities (Ho Technical, UHAS)",
+          "Inspiring a new generation of builders outside major hubs"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "If you’re from a ‘small town,’ leverage it. Our humility and hunger are our advantages.",
+        "author": "Collins Joe"
+      }
+    ],
+    "author": {
+      "name": "Collins Joe",
+      "role": "Founder & CEO",
+      "image": "/images/Profile.jpg"
+    },
+    "relatedPosts": [1, 4]
+  },
+  {
+    "id": 4,
+    "slug": "otp-security-sendexa",
+    "title": "Why Banks Like Fidelity and ADB Trust Sendexa for OTP Security",
+    "date": "July 19, 2025",
+    "category": "Use Cases",
+    "readTime": "5 min read",
+    "image": "/blog/bank-otp-security.jpg",
+    "excerpt": "Ghana’s financial institutions rely on Sendexa for OTPs. Here’s how we prevent fraud where others fail.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "OTP fraud costs African businesses millions yearly. Sendexa’s solution combines:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Dynamic sender IDs (e.g., ‘FIDBANK’ instead of generic numbers)",
+          "Geolocation-based delivery blocks (combat SIM swap scams)",
+          "Real-time analytics to detect unusual spikes"
+        ]
+      }
+    ],
+    "author": {
+      "name": "Sendexa Security Team",
+      "role": "Head of Product",
+      "image": "/images/security-team.jpg"
+    },
+    "relatedPosts": [2, 5]
+  },
+  {
+    "id": 5,
+    "slug": "sendexa-vs-nalo-infobip",
+    "title": "Nalo Solutions or Sendexa? A Developer’s Honest Comparison",
+    "date": "July 26, 2025",
+    "category": "Product",
+    "readTime": "8 min read",
+    "image": "/blog/comparison-guide.jpg",
+    "excerpt": "We tested Nalo Solutions, Infobip, and Sendexa for 30 days. Here’s which API delivers the best value for African startups.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Criteria: Documentation, support response time, and failover handling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa outperformed both Nalo Solutions and Infobip in all key areas. Here’s how we stack up:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Documentation: Sendexa’s guides are clear, concise, and localized for African developers.",
+          "Support: 24/7 local support vs. business hours only for Nalo; email-only for Infobip.",
+          "Failover: Sendexa’s real-time failover ensures zero downtime, while others struggled with latency."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We also compared pricing and features:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          ["Feature", "Sendexa", "Nalo Solutions", "Infobip"],
+          ["Free Test Credits", "Yes", "No", "No"],
+          ["WhatsApp API", "Coming Q3", "No", "Yes"],
+          ["Local Support (Ghana)", "24/7", "Business Hours", "Email Only"]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa’s focus on local infrastructure and developer experience makes it the best choice for startups in Ghana and across Africa."
+      },
+      {
+        "type": "heading",
+        "text": "Conclusion: Why Sendexa is the Best Choice"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you’re an African startup looking for a reliable, fast, and developer-friendly SMS API, Sendexa is the clear winner. We’re built for local scale, with features that matter most to our clients."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether you need SMS, OTP, or future voice and email APIs, Sendexa is your partner for growth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sendexa’s focus on local infrastructure and developer experience makes it the best choice for startups in Ghana and across Africa."
+      }
+    ],
+    "author": {
+      "name": "Dev Advocate",
+      "role": "Sendexa Developer Relations",
+      "image": "/images/dev-advocate.jpg"
+    },
+    "relatedPosts": [2, 4]
+  },
+  {
+    "id": 6,
+    "slug": "sendexa-2026-roadmap",
+    "title": "Beyond SMS: Sendexa’s Voice, Email & WhatsApp APIs Launching Soon",
+    "date": "August 2, 2025",
+    "category": "News",
+    "readTime": "4 min read",
+    "image": "/blog/product-roadmap.jpg",
+    "excerpt": "Here’s what’s next for Sendexa—including a game-changing WhatsApp Business API and pay-as-you-go voice calls.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Q4 2025:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "WhatsApp Business API (Beta access for enterprise clients)",
+          "Email automation with Mailgun integrations",
+          "Voice API for IVR and call masking"
+        ]
+      },
+      {
+  "type": "code",
+  "language": "javascript", 
+  "code": "console.log('Hello Sendexa!');"
+},
+      {
+        "type": "paragraph",
+        "text": "2026:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "AI-powered analytics dashboard",
+          "Expanded regional coverage across Africa",
+          "Partnerships with leading telecoms for better rates"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We’re building the future of communication in Africa—stay tuned!"
+      }
+    ],
+    "author": {
+      "name": "Product Team",
+      "role": "Sendexa",
+      "image": "/images/product-team.jpg"
+    },
+    "relatedPosts": [1, 5]
+  }
+]
