@@ -3,46 +3,10 @@ import  ContactHero  from "@/components/contact/ContactHero";
 import { ContactForm } from "@/components/contact/ContactForm";
 import { ContactDetails } from "@/components/contact/ContactDetails";
 import { ContactMap } from "@/components/contact/ContactMap";
-//import { Testimonials } from "@/components/payments/Testimonials";
 import { Container } from "@/layout/Container";
-//import dynamic from "next/dynamic";
 import Script from "next/script";
 
 
-// const testimonialData = [
-//   {
-//     quote:
-//       "Sendexa's support team resolved our integration issue in under 30 minutes. Incredible response time!",
-//     name: "Ama Serwaa",
-//     title: "Technical Lead",
-//     company: "PayTech Ghana",
-//     avatar: "/avatars/ama.jpg",
-//     stats: [
-//       { label: "Response Time", value: "<30 min" },
-//       { label: "Resolution", value: "100%" },
-//     ],
-//   },
-//   {
-//     quote:
-//       "The sales team understood our complex payment needs immediately and proposed the perfect solution.",
-//     name: "Kofi Ansah",
-//     title: "Head of Payments",
-//     company: "AfroCommerce",
-//     avatar: "/avatars/kofi.jpg",
-//   },
-//   {
-//     quote:
-//       "We migrated from another provider with zero downtime thanks to Sendexa's onboarding team.",
-//     name: "Esi Boateng",
-//     title: "CTO",
-//     company: "QuickPay Africa",
-//     avatar: "/avatars/esi.jpg",
-//     stats: [
-//       { label: "Migration Time", value: "2 Days" },
-//       { label: "Uptime", value: "100%" },
-//     ],
-//   },
-// ];
 
 export const metadata: Metadata = {
   title: "Contact Sendexa | Payments API Support & Sales",
